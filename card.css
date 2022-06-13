@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: white;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -11,6 +11,9 @@ h1 {
     color: white;
 }
 
+h2 {
+    color: white;
+}
 .mycard {
     background-color: lightgreen;
     border-radius: 20px;
@@ -21,7 +24,7 @@ h1 {
 
 .mycard .profile {
     width: 100px;
-    border-radius: 50%;
+    border-radius: 0%;
     margin-top: 0px;
     float: left;
 }
@@ -33,7 +36,7 @@ h1 {
 }
 
 .available li {
-    width: 50px;
+    width: 80px;
     display: inline-block;
     padding: 20px 10px;
 }
