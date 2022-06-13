@@ -12,13 +12,14 @@ img {
     border-radius: 20px;
     margin: 0 auto;
     width: 400px;
-    text-align: center;
+    text-align: left;
 }
 
 .mycard .profile {
     width: 100px;
     border-radius: 50%;
-    margin-top: -100px;
+    margin-top: -20px;
+    float: left;
 }
 
 .available {
@@ -28,7 +29,7 @@ img {
 }
 
 .available li {
-    width: 30px;
+    width: 50px;
     display: inline-block;
     padding: 20px 10px;
 }
