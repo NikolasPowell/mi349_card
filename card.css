@@ -21,19 +21,19 @@ img {
     margin-top: -50px;
 }
 
-.contacts {
+.available {
     margin: 0;
     padding: 0;
     list-style-type: none;
 }
 
-.contacts li {
+.available li {
     width: 30px;
     display: inline-block;
     padding: 20px 10px;
 }
 
-.contacts li a img:hover {
+.available li a img:hover {
     opacity: lightgreen;
     transition: opacity ease-in-out 0.2s;
 }
