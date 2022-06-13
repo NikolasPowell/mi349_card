@@ -1,0 +1,28 @@
+body {
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 100%;
+}
+
+.mycard {
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+}
+
+.mycard .myself {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -50px:
+}
+
+.contacts {
+    margin: 0;
+    padding: 0;
+    list-style-type: 0;
+}
