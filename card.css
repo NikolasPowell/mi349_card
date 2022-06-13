@@ -15,7 +15,7 @@ img {
     text-align: center;
 }
 
-.mycard .myself {
+.mycard .profile {
     width: 100px;
     border-radius: 50%;
     margin-top: -50px;
@@ -24,5 +24,16 @@ img {
 .contacts {
     margin: 0;
     padding: 0;
-    list-style-type: 0;
+    list-style-type: none;
+}
+
+.contacts li {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+.contacts li a img:hover {
+    opacity: lightgreen;
+    transition: opacity ease-in-out 0.2s;
 }
